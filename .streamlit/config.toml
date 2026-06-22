@@ -5,4 +5,5 @@ textColor = "#283223"
 
 [theme.sidebar]
 backgroundColor = "#283223"
+secondaryBackgroundColor = "#e6eb8b"
 textColor = "#FDFBF1"
