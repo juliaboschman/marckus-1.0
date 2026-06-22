@@ -1,9 +1,9 @@
 [theme]
 backgroundColor = "#FDFBF1"
-secondaryBackgroundColor = "#e6eb8b"
-textColor = "#283223"
+secondaryBackgroundColor = "#faf7e7"
+textColor = "#000000"
 
 [theme.sidebar]
-backgroundColor = "#283223"
-secondaryBackgroundColor = "#e6eb8b"
-textColor = "#FDFBF1"
+backgroundColor = "#FDFBF1"
+secondaryBackgroundColor = "#314428"
+textColor = "#000000"
